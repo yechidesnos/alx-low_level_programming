@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-int main(){
+int main(void){
     char alph;
     for (alph = 'a' ; alph <= 'z' ; alph++)
     {putchar (alph);
