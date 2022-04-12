@@ -1,0 +1,19 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/**
+*main - main block
+*Description:	print the character. except e and q.
+*Return: (0) that's great.
+*/
+int main(void)
+{
+	char alph;
+
+	for (alph = 'z' ; alph >= 'a' ; alph--)
+		{
+            putchar (alph); 
+        }
+        putchar ('\n');
+	return (0);
+}
