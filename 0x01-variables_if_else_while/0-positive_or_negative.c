@@ -5,6 +5,7 @@
 /**
 *main - main block
 *Description:	inform that the random number is positive or negative
+*Return: (0) that's great.
 */
 int main(void)
 {
@@ -19,4 +20,5 @@ int main(void)
 	else 
 			printf("%d is zero\n", n);
 	return (0);
+
 }
