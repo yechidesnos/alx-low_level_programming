@@ -3,9 +3,7 @@
 #include <stdio.h>
 /**
 *main - main block2
-*@c: type void character
-*print_alphabet_x10.c
-*Description:	print_alphabet_x10.
+*print_alphabet_x10-print alphabet for 10 times.
 *Return: (0) that's great.
 */
 void print_alphabet_x10(void)
@@ -22,4 +20,3 @@ void print_alphabet_x10(void)
 		putchar('\n');
 	}
 }
-

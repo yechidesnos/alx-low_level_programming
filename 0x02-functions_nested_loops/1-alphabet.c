@@ -2,10 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - main block
-*print_alphabet
-@c: type void character
-*Description:print_alphabet.
+*print_alphabet-print_alphabet a to z.
 *Return: (0) that's great.
 */
 void print_alphabet(void)
@@ -18,4 +15,3 @@ void print_alphabet(void)
 	}
 	putchar('\n');
 }
-
