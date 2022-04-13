@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
 *islower - Return 1 if letter is lowercase, 0 if not.
 * @c: char type letter
