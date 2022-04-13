@@ -3,17 +3,17 @@
 #include <stdio.h>
 /**
 *main - main block
-*Description:	print the character. except e and q.
+*Description:	prints the lowercase alphabet in reverse.
 *Return: (0) that's great.
 */
 int main(void)
 {
-	char alph;
-
-	for (alph = 'z' ; alph >= 'a' ; alph--)
-		{
-            putchar (alph); 
-        }
-        putchar ('\n');
-	return (0);
+	char alph; 
+    
+    for (alph = 'z' ; alph >= 'a' ; alph--)
+    {
+        putchar (alph); 
+    }
+    putchar ('\n'); 
+    return (0);
 }

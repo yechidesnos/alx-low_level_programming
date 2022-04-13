@@ -11,11 +11,11 @@ int main(void)
 	int i;
     char alph; 
 
-	for (i=0 ; i<10 ; i++)
+	for (i = 0 ; i < 10 ; i++)
     {
         putchar(i + '0'); 
     }
-    for (alph = 'a'; alph <= 'g'; alph++)
+    for (alph = 'a'; alph < 'g'; alph++)
     {
         putchar(alph); 
     }
