@@ -2,7 +2,7 @@
 #define LARGEST 10000000000
 /**
  * main - main block
- * Description: finds and print the first 98 fibonacci numbers, starting with 1 and 2,
+ * Description: finds and print the first 98 fibo nbr starting with 1 and 2,
  * The numbers should be separated by comma, followed by a space.
  * Return: 0
  */
