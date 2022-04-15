@@ -1,13 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+#include "main.h"
 
 /**
 *main - main block
 *Description:   inform that the random number is positive or negative
 *Return: (0) that's great.
 */
-void positive_or_negative(int i)
+int main(void)
 {
         int n;
 
