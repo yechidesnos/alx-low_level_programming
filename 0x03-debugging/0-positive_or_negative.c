@@ -7,7 +7,7 @@
 *Description:   inform that the random number is positive or negative
 *Return: (0) that's great.
 */
-int main(void)
+void positive_or_negative(int i)
 {
         int n;
 
