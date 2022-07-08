@@ -1,4 +1,4 @@
-#include "desnos.h"
+#include "main.h"
 
 /**
  * mul -est une fonction qui fait le produit de deux nombres.
