@@ -1,6 +1,4 @@
-
-#include <stdlib.h>
-#include <stdio.h>
+#include "neste_loops.h"
 
 /**
  * _isupper - a function that checks for uppercase character
