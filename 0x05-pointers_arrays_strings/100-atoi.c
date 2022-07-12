@@ -10,7 +10,7 @@ int _atoi(char *s)
 {
 	int num;
 
-	num = _atoi(char *s);
+	num = _atoi(char s);
 	printf("%d",num);
 	return (0);
 }
