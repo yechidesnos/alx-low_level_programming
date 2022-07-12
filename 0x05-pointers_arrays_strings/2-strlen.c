@@ -3,7 +3,8 @@
 /**
  * _strlen - returns the  string length
  * @s: char input
- * return: length of the input string
+ * @som: that is the sum
+ * Return: length of the input string
  */
 
 int _strlen(char *s)
