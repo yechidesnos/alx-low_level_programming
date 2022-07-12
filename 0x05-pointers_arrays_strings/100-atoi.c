@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * _atoi - transtype function
@@ -9,7 +10,7 @@ int _atoi(char *s)
 {
 	int num;
 
-	num = atoi(*s);
+	num = _atoi(*s);
 	printf("%d",num);
 	return (0);
 }
