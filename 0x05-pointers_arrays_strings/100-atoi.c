@@ -7,5 +7,9 @@
  */
 int _atoi(char *s)
 {
+	int num;
+
+	num = atoi(*s);
+	printf("%d",num);
 	return (0);
 }
